@@ -20,7 +20,7 @@ $ conda create -n emfd python=3.7
 Once Anaconda/Miniconda is installed activate the env via:
 
 ```
-$ source activate emfd
+$ conda activate emfd
 ```
 
 Next, you must install spaCy, which is the main natural language processing backend that eMFDscore is built on:
